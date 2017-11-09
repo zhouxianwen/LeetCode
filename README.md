@@ -1,2 +1,2 @@
-# Sean
+# LeetCode
 Just to learn more !
