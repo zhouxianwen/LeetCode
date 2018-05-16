@@ -18,6 +18,5 @@ public class SelectSortTest {
     @Test
     public void selectSortTest(){
         System.out.println(Arrays.toString(SelectSort.selectSort(numbers)));
-
     }
 }

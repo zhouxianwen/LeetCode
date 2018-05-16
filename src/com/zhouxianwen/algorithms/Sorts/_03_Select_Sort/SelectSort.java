@@ -8,7 +8,8 @@ public class SelectSort {
 
     /**
      *Select sort method.
-     * @param numbers : a int array
+     * @param numbers : an int array
+     * @return : an orderly array
      */
     public static int[] selectSort(int[] numbers){
         //The template variable.

@@ -10,6 +10,7 @@ public class QuickSort {
      * @param numbers : an array
      * @param start : 0
      * @param end : numbers.length - 1
+     * @return : an orderly array
      */
     public static int[] quickSort(int[] numbers, int start, int end){
         if(start < end){
